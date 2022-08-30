@@ -3,5 +3,4 @@
   <img alt="github graph" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t6070&theme=dracula" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=t6070&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+
